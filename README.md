@@ -4,7 +4,7 @@ Mali GPU works with Panthor - but yeah - the snooping is one way only - leading 
 
 As it is a active devboard at the moment - you shouldn't really connect it to the Internet - as it doesn't really get security updates - for the features don't work - forget security. It's testing only.
 
-7.0.0-37-cix-MODULES.tar.gz == Modules - put it inside your /lib/modules
+7.0.0-37-cix-MODULES.7z == Modules - put it inside your /lib/modules
 boot.tar.gz == The Boot Directory - overwrite everything in your /boot with this
 EFI.tar.gz == Files for the ESP System Partition - it is a separate partition from the /boot dir which shall sit on your ext4 linux partition.
 
